@@ -1,4 +1,4 @@
-# Game-Project
+# Projeto de Jogo
 Projeto feito para o IV Fatec portas abertas, acontecido dia 23/05/2025 
 
 
